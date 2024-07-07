@@ -1,4 +1,4 @@
-class HashMap {
+export default class HashMap {
   constructor (initialSize = 16) {
     if (initialSize < 0) {
       throw new Error('Initial size cannot be negative')
