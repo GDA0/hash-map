@@ -1,2 +1,3 @@
-# hash-map
-A hash map
+# HashMap | HashSet
+
+A hash map | hash set
